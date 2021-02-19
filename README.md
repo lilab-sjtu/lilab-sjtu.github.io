@@ -28,11 +28,11 @@ https://www.shsmu.edu.cn/__local/B/ED/D0/A82A9082F6E77093427D9D16D51_4D79CE88_50
 
 2014年9月年至2019年10月就读于复旦大学药学院药理学专业，获博士学位；2007年9月至2014年6月，就读于哈尔滨医科大学药学院，分别获中药学学士学位和药理学硕士学位。研究成果发表于Oxidative Medicine and Cellular Longevity和Antioxidants and Redox Signaling杂志上。
 
-## 博士研究生：
+### 博士研究生：
 
 杨晨
 
-## 硕士研究生：
+### 硕士研究生：
 
 王志明，焦慧媛
 
