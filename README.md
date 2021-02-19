@@ -45,7 +45,7 @@
 王志明，焦慧媛
 
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="800" width="50">
 
 -------------------------------
 # 成果列表：
