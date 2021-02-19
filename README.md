@@ -8,7 +8,7 @@
 
 # 人员介绍
 
-## 李令杰 研究员 课题组长
+## 李令杰 研究员（课题组长）
 
 https://www.shsmu.edu.cn/__local/B/78/66/940FB4A87EE51C3BE567D89140F_247CD681_89B6.jpg 
 
