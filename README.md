@@ -31,7 +31,7 @@
 2014年9月年至2019年10月就读于复旦大学药学院药理学专业，获博士学位；2007年9月至2014年6月，就读于哈尔滨医科大学药学院，分别获中药学学士学位和药理学硕士学位。研究成果发表于Oxidative Medicine and Cellular Longevity和Antioxidants and Redox Signaling杂志上。
 
 
-<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fku.90sjimg.com%2Felement_origin_min_pic%2F16%2F11%2F30%2F24e8f1acb6de52acbb2fcb3d7e997d6a.jpg&refer=http%3A%2F%2Fku.90sjimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1616305441&t=7b9b746341519bb951c671c6aafe44bd" height='100'>
+<img src="https://test-test.cn/lilab/source/phd.jpg" height='100'>
 
 ### 博士研究生：
 
