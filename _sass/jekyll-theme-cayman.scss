@@ -105,6 +105,15 @@ a {
   }
 }
 
+
+header {
+  width:270px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
