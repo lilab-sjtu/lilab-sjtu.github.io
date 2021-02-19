@@ -34,6 +34,15 @@ body {
   color: $body-text-color;
 }
 
+.wrapper {
+  width:1080px;
+  margin:0 auto;
+}
+
+header {
+  position:fixed;
+}
+
 #skip-to-content {
   height: 1px;
   width: 1px;
@@ -105,13 +114,6 @@ a {
   }
 }
 
-
-header {
-  width:350px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
 
 
 .page-header {
