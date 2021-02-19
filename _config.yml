@@ -1,1 +1,6 @@
+title: Li-lab
+logo: /assets/img/logo.png
+description: Homepage of Lilab.
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
