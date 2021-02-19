@@ -1,12 +1,14 @@
+-------------------------------
 # 研究方向
+-------------------------------
 
 本实验室的主要研究兴趣为细胞命运的决定机制。我们以上皮系统特别是皮肤器官为主要研究对象，运用多种表观基因组分析技术，并结合体外干细胞分化与体内发育模型来深入理解：上皮组织谱系特化、稳态平衡以及相关疾病发生的调控机制；在此基础上进一步发展干细胞及基因组新技术用于皮肤再生医学及复杂疾病的诊治。目前的研究主要集中在以下几个方面：1.上皮组织发育中的表观遗传调控规律；2.早期外胚层细胞分化、发育的调控机制；3.  成体皮肤组织稳态平衡及相关疾病的调控；4. 发展基于干细胞的皮肤再生医学技术及应用研究。
 
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
 -------------------------------
-
-
 # 人员介绍
+-------------------------------
 
 ## 李令杰 研究员 课题组长
 
@@ -35,10 +37,11 @@ https://www.shsmu.edu.cn/__local/B/ED/D0/A82A9082F6E77093427D9D16D51_4D79CE88_50
 王志明，焦慧媛
 
 
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+
 -------------------------------
-
-
 # 成果列表：
+-------------------------------
 
    * Li L, Wang Y, Torkelson JL, Shankar G, Pattison J, H Zhen, Duren Z, Fang F, Melo S, Piekos S, Li J, Liaw E,Chen L, Li R, Wernig M, Wong WH, Chang HY, Oro AE. TFAP2C- and p63-Dependent Networks Sequentially Rearrange Chromatin Landscapes to Drive Human Epidermal Lineage Commitment. Cell Stem Cell. 2019 24:271-284.
 
@@ -48,7 +51,7 @@ https://www.shsmu.edu.cn/__local/B/ED/D0/A82A9082F6E77093427D9D16D51_4D79CE88_50
 
    * Li L, Sun L, Gao F, Jiang J, Yang Y, Li C, Gu J, Wei Z, Yang A, Lu R, Ma Y, Tang F, Won Kwon S, Zhao Y, Li J, Jin Y. Stk40 links the pluripotency factor Oct4 to the Erk/MAPK pathway and controls extraembryonic endoderm differentiation. PNAS. 2010 107(4): 1402-1407.
 
-
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
 
 
