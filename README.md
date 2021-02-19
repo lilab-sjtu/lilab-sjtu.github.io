@@ -39,11 +39,11 @@
 
 <img src="https://www.shsmu.edu.cn/__local/E/AF/FF/20C6A580DF188EDEC057CBCE7DA_3A99EF97_14E56.jpg" height='200'/>
 
-### 在读研究生：
+### 研究生：
 
 杨晨（博士），王志明（硕士），焦慧媛（硕士）
 
-### 毕业研究生：
+
 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="800" width="50">
