@@ -8,10 +8,10 @@
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="30" width='50'>
 
-<img src="https://www.test-test.cn/lilab/source/epi.jpg" height='500'/>
+<img src="https://www.test-test.cn/lilab/source/epi.jpg" height='420'/>
 
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='50'>
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
 
 
 -------------------------------
@@ -48,7 +48,7 @@
 
 
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='50'>
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
 
 
 
@@ -64,7 +64,9 @@
 
    * Li L, Sun L, Gao F, Jiang J, Yang Y, Li C, Gu J, Wei Z, Yang A, Lu R, Ma Y, Tang F, Won Kwon S, Zhao Y, Li J, Jin Y. Stk40 links the pluripotency factor Oct4 to the Erk/MAPK pathway and controls extraembryonic endoderm differentiation. PNAS. 2010 107(4): 1402-1407.
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="100">
 
 
 
