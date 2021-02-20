@@ -1,3 +1,4 @@
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='50'>
 
 -------------------------------
 # 研究方向
@@ -9,9 +10,9 @@
 
 <img src="https://www.test-test.cn/lilab/source/epi.jpg" height='500'/>
 
-<blank>
+
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='50'>
-</blank>
+
 
 -------------------------------
 # 人员介绍
@@ -46,9 +47,9 @@
 
 
 
-<blank>
+
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='50'>
-</blank>
+
 
 
 -------------------------------
