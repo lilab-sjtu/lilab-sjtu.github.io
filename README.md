@@ -4,9 +4,9 @@
 # 常用链接
 -------------------------------
 
-[组遗发系会议室预约](https://teamup.com/ksy691g97x7izvtb6d)
+* [组遗发系会议室预约](https://teamup.com/ksy691g97x7izvtb6d)
 
-[2021年试剂耗材自购单-NSConflict](https://www.jianguoyun.com/p/DUA3C2cQzt7hCBie1OsD)
+* [2021年试剂耗材自购单-NSConflict](https://www.jianguoyun.com/p/DUA3C2cQzt7hCBie1OsD)
 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
