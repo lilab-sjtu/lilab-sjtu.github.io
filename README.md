@@ -1,6 +1,15 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="30" width='50'>
 
 -------------------------------
+# 常用链接
+-------------------------------
+
+[2021年试剂耗材自购单-NSConflict](https://www.jianguoyun.com/p/DUA3C2cQzt7hCBie1OsD)
+
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
+
+-------------------------------
 # 研究方向
 -------------------------------
 
