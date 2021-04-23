@@ -4,7 +4,7 @@
 # 常用链接
 -------------------------------
 
-* [lilab组会安排](https://www.jianguoyun.com/p/Ddt6xEMQzt7hCBjPuu8D)
+* [Journal Club安排](https://www.jianguoyun.com/p/Ddt6xEMQzt7hCBjPuu8D)
 
 * [组遗发系会议室预约](https://www.jianguoyun.com/p/DatKuGMQzt7hCBix3OsD%20)
 
