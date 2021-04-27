@@ -12,6 +12,12 @@
 
 * [2021年试剂耗材自购单-NSConflict](https://www.jianguoyun.com/p/DUA3C2cQzt7hCBie1OsD)
 
+### 实验室管理文档：
+
+* [细胞房管理]（https://www.jianguoyun.com/p/DUoHmTsQzt7hCBj5rfAD）
+
+* [仪器管理] (https://www.jianguoyun.com/p/DT2Iz-kQzt7hCBiJrvAD)
+
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
 
