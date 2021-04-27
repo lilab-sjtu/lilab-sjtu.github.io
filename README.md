@@ -4,23 +4,23 @@
 # 常用链接
 -------------------------------
 
-* [组会文件](https://www.jianguoyun.com/p/DeNQWocQzt7hCBi34dQD)
+* [组会文件](https://www.jianguoyun.com/p/DeNQWocQzt7hCBi34dQD){:target="_blank"}
 
-* [Journal Club安排](https://www.jianguoyun.com/p/Ddt6xEMQzt7hCBjPuu8D)
+* [Journal Club安排](https://www.jianguoyun.com/p/Ddt6xEMQzt7hCBjPuu8D){:target="_blank"}
 
-* [组遗发系会议室预约](https://www.jianguoyun.com/p/DatKuGMQzt7hCBix3OsD%20)
+* [组遗发系会议室预约](https://www.jianguoyun.com/p/DatKuGMQzt7hCBix3OsD%20){:target="_blank"}
 
-* [2021年试剂耗材自购单-NSConflict](https://www.jianguoyun.com/p/DUA3C2cQzt7hCBie1OsD)
+* [2021年试剂耗材自购单-NSConflict](https://www.jianguoyun.com/p/DUA3C2cQzt7hCBie1OsD){:target="_blank"}
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='50'>
 
 ### 实验室管理文档：
 
-* [细胞房管理](https://www.jianguoyun.com/p/DUoHmTsQzt7hCBj5rfAD)
+* [细胞房管理](https://www.jianguoyun.com/p/DUoHmTsQzt7hCBj5rfAD){:target="_blank"}
 
-* [仪器管理](https://www.jianguoyun.com/p/DT2Iz-kQzt7hCBiJrvAD)
+* [仪器管理](https://www.jianguoyun.com/p/DT2Iz-kQzt7hCBiJrvAD){:target="_blank"}
 
-* [WB及废液管理](https://www.jianguoyun.com/p/DcrwTmMQzt7hCBiSrvAD)
+* [WB及废液管理](https://www.jianguoyun.com/p/DcrwTmMQzt7hCBiSrvAD){:target="_blank"}
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
 
