@@ -9,7 +9,7 @@
 
 * [组会文件](https://www.jianguoyun.com/p/DeNQWocQzt7hCBi34dQD){:target="_blank"}
 
-* [组遗发系会议室预约](https://www.jianguoyun.com/p/DatKuGMQzt7hCBix3OsD%20){:target="_blank"}
+* [会议室预约](https://www.jianguoyun.com/p/DatKuGMQzt7hCBix3OsD%20){:target="_blank"}
 
 * [2021年试剂耗材自购单-NSConflict](https://www.jianguoyun.com/p/DUA3C2cQzt7hCBie1OsD){:target="_blank"}
 
