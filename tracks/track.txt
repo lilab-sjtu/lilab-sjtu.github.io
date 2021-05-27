@@ -3,13 +3,13 @@
     {
     "type": "longrange",
     "name": "D0",
-    "url": "https://github.com/lilab-sjtu/lilab-sjtu.github.io/blob/main/tracks/BED_p0.05_D0.bedpe.txt.longrange.bed.gz?raw=true"
+    "url": "https://www.li-lab.cn/tracks/BED_p0.05_D0.bedpe.txt.longrange.bed.gz"
     },
 
     {
     "type": "longrange",
     "name": "D5",
-    "url": "https://github.com/lilab-sjtu/lilab-sjtu.github.io/blob/main/tracks/BED_p0.05_D5.bedpe.txt.longrange.bed.gz?raw=true"
+    "url": "https://www.li-lab.cn/tracks/BED_p0.05_D5.bedpe.txt.longrange.bed.gz"
     }
     
 ]
