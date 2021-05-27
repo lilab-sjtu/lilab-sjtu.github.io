@@ -2,9 +2,14 @@
 
 {
     "type": "longrange",
-    "name": "D0R1",
-    "url": "https://gitee.com/jumphone/tracks/raw/master/D0D5/D0D5.gz"
+    "name": "D0",
+    "url": "https://github.com/lilab-sjtu/lilab-sjtu.github.io/blob/main/tracks/BED_p0.05_D0.bedpe.txt.longrange.bed.gz?raw=true"
 }
 
+{
+    "type": "longrange",
+    "name": "D5",
+    "url": "https://github.com/lilab-sjtu/lilab-sjtu.github.io/blob/main/tracks/BED_p0.05_D5.bedpe.txt.longrange.bed.gz?raw=true"
+}
 
 ]
