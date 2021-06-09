@@ -1,9 +1,5 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="30" width='50'>
 
-* No.280 South Chong Qing Road, Shanghai, China, 200025
-
-* Email: lingjie@shsmu.edu.cn
-
 -------------------------------
 # 常用链接
 -------------------------------
