@@ -1,5 +1,8 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="30" width='50'>
 
+* No.280 South Chong Qing Road, Shanghai, China, 200025
+
+* Email: lingjie@shsmu.edu.cn
 
 -------------------------------
 # 常用链接
@@ -80,7 +83,7 @@
 
 
 -------------------------------
-# 成果列表：
+# 代表成果：
 -------------------------------
 
    * Li L, Wang Y, Torkelson JL, Shankar G, Pattison J, H Zhen, Duren Z, Fang F, Melo S, Piekos S, Li J, Liaw E,Chen L, Li R, Wernig M, Wong WH, Chang HY, Oro AE. TFAP2C- and p63-Dependent Networks Sequentially Rearrange Chromatin Landscapes to Drive Human Epidermal Lineage Commitment. Cell Stem Cell. 2019 24:271-284.
