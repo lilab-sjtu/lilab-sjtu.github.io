@@ -1,15 +1,6 @@
-[
-
-    {
-    "type": "longrange",
-    "name": "D0",
-    "url": "https://www.li-lab.cn/tracks/BED_p0.05_D0.bedpe.txt.longrange.bed.gz"
-    },
-
-    {
-    "type": "longrange",
-    "name": "D5",
-    "url": "https://www.li-lab.cn/tracks/BED_p0.05_D5.bedpe.txt.longrange.bed.gz"
-    }
-    
-]
+hub test
+shortLabel test
+longLabel test
+genomesFile genomes.txt
+email fzhang@shsmu.edu.cn
+descriptionUrl test
