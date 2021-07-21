@@ -1,11 +1,11 @@
 track V10_3h.bam.rpkm.bw
-bigDataUrl https://www.jianguoyun.com/c/dl-pubfile/V10_3h.bam.rpkm.bw?w=Rb_p79hZ5l_gDevGDbI_QZtopWgVL9QB9YI5-i9L_5Y&td=qwkx0r&cid=w0iJZ7bcwtr1lL-hhzwgbA&ip=180.166.197.6&ha=DT0KQxMQzt7hCBio0YEE&xy=anVtcGhvbmVAMTYzLmNvbQ
+bigDataUrl ftp://202.120.130.237/test/V10_3h.bam.rpkm.bw
 shortLabel V10_3h.bam.rpkm.bw
 longLabel V10_3h.bam.rpkm.bw
 type bigWig
 
 track V10_12h.bam.rpkm.bw
-bigDataUrl https://www.jianguoyun.com/c/dl-pubfile/V10_12h.bam.rpkm.bw?w=p7ewvX2CjWmHKrb7n_QoIFgIQoPVVov572pcbSVui2I&td=qwkwzk&cid=SMcq_eGk-dMihh6e1JEriw&ip=180.166.197.6&ha=DW-Qq4kQzt7hCBip0YEE&xy=anVtcGhvbmVAMTYzLmNvbQQq4kQzt7hCBip0YEE&xy=anVtcGhvbmVAMTYzLmNvbQ
+bigDataUrl ftp://202.120.130.237/test/V10_12h.bam.rpkm.bw
 shortLabel V10_12h.bam.rpkm.bw
 longLabel V10_12h.bam.rpkm.bw
 type bigWig
