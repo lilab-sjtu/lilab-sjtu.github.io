@@ -1,11 +1,11 @@
 track V10_3h.bam.rpkm.bw
-bigDataUrl ftp://202.120.130.237/test/V10_3h.bam.rpkm.bw
+bigDataUrl http://ffmdcc8asp.cdhttp.cn/tracks/test/V10_3h.bam.rpkm.bw
 shortLabel V10_3h.bam.rpkm.bw
 longLabel V10_3h.bam.rpkm.bw
 type bigWig
 
 track V10_12h.bam.rpkm.bw
-bigDataUrl ftp://202.120.130.237/test/V10_12h.bam.rpkm.bw
+bigDataUrl http://ffmdcc8asp.cdhttp.cn/tracks/test/V10_12h.bam.rpkm.bw
 shortLabel V10_12h.bam.rpkm.bw
 longLabel V10_12h.bam.rpkm.bw
 type bigWig
