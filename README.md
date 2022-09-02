@@ -10,7 +10,7 @@
 
 * [会议室预约](https://www.jianguoyun.com/p/DatKuGMQzt7hCBix3OsD%20){:target="_blank"}
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='100'>
 
 -------------------------------
 # 研究方向
