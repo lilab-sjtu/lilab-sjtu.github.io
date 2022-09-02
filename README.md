@@ -14,7 +14,6 @@
 
 * [试剂耗材自购单](https://www.jianguoyun.com/p/DUA3C2cQzt7hCBie1OsD){:target="_blank"}
 
-* [实验技巧Tips](https://www.jianguoyun.com/p/DR9lfG0Qzt7hCBjboJwE){:target="_blank"}
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='50'>
 
