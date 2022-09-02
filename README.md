@@ -54,18 +54,9 @@
 
 ### 教职工：
 
-<img src="https://www.li-lab.cn/source/image/%E5%BC%A0%E4%B8%B0.jpg" height='130'/>
-
-### 张丰 助理研究员
-
-复旦大学生物统计学博士，美国辛辛那提儿童医院医学中心访学及Graduate Assistant。主要研究成果发表在Cell Discov, Cell Rep, Brief Bioinform等国际知名期刊。
-
-
-<img src="https://www.li-lab.cn/source/image/%E7%AB%A5%E5%86%89.jpg" height='120'/>
-
-### 童冉 技术员
-
-上海交通大学硕士
+<img src="https://www.li-lab.cn/source/image/%E5%BC%A0%E4%B8%B0.jpg" height='120'/> | <img src="https://www.li-lab.cn/source/image/%E7%AB%A5%E5%86%89.jpg" height='120'/>
+张丰 助理研究员 | 童冉 技术员
+复旦大学生物统计学博士，美国辛辛那提儿童医院医学中心访学及Graduate Assistant。主要研究成果发表在Cell Discov, Cell Rep, Brief Bioinform等国际知名期刊。| 上海交通大学硕士
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
 
