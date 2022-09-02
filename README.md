@@ -76,7 +76,7 @@
 
 ### ALUMNI：
 
-* 常玲玲 (实验师, 2020-2022)
+常玲玲 (实验师, 2020-2022)
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
 
