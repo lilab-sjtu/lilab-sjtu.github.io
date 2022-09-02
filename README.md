@@ -39,7 +39,7 @@
 
 <img src="https://www.li-lab.cn/source/image/%E6%9D%8E%E4%BB%A4%E6%9D%B0.jpg" height='150'/>
 
-### 李令杰 研究员 课题组长 博士生导师
+### 李令杰 研究员 课题组长
 
 中科院上海生命科学研究院发育生物学博士，美国斯坦福大学博士后及Research Associate。主要研究成果发表在Cell Stem Cell，Cell Rep，PNAS等国际知名期刊。
 
