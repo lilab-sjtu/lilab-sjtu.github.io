@@ -60,7 +60,7 @@
 
 ### 童冉 技术员
 
-上海交通大学硕士。
+上海交通大学硕士
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
 
