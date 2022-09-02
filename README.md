@@ -43,6 +43,7 @@
 
 上海交通大学基础医学院组织胚胎学与遗传发育学系课题组长，博士生导师。西北大学生物技术专业学士，中科院上海生命科学研究院发育生物学博士，美国斯坦福大学博士后及Research Associate。主要研究成果发表在Cell Stem Cell，Cell Rep，PNAS等国际知名期刊。
 
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
 
 <img src="https://www.li-lab.cn/source/image/%E5%BC%A0%E4%B8%B0.jpg" height='150'/>
 
