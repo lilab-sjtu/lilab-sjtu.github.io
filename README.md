@@ -61,15 +61,17 @@
 杨晨 博士 | 王志明 硕士 | 焦慧媛 博士
 
 
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
 
 
- 
 ### 联合培养/交流访学：
 
-### 王一好
+王一好 | 李林颖
 
-### 李林颖
+
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
 
 ### ALUMNI：
