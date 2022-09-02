@@ -30,7 +30,7 @@
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="30" width='50'>
 
-<img src="https://lilab-sjtu.github.io/source/epi.jpg" height='320'/>
+<img src="https://lilab-sjtu.github.io/source/epi.jpg" width='320'/>
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
 
