@@ -49,7 +49,7 @@
 
 ### 张丰 助理研究员
 
-复旦大学生物统计学博士，美国辛辛那提儿童医院医学中心访学及Graduate Assistant。研究领域为单细胞测序数据分析及算法开发，主要研究成果发表于Cell Discov, Cell Rep, Brief Bioinform等国际知名期刊。
+复旦大学生物统计学博士，美国辛辛那提儿童医院医学中心访学及Graduate Assistant。主要研究成果发表于Cell Discov, Cell Rep, Brief Bioinform等国际知名期刊。
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
