@@ -46,6 +46,8 @@
 
 中科院上海生命科学研究院发育生物学博士，美国斯坦福大学博士后及Research Associate。主要研究成果发表在Cell Stem Cell，Cell Rep，PNAS等国际知名期刊。
 
+
+
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
 
 
@@ -58,8 +60,6 @@
 
 复旦大学生物统计学博士，美国辛辛那提儿童医院医学中心访学及Graduate Assistant。主要研究成果发表在Cell Discov, Cell Rep, Brief Bioinform等国际知名期刊。
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
-
 
 <img src="https://www.li-lab.cn/source/image/%E7%AB%A5%E5%86%89.jpg" height='120'/>
 
@@ -70,7 +70,6 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
 
 
-
 ### 研究生：
 
 <img src="https://www.li-lab.cn/source/image/%E6%9D%A8%E6%99%A8.jpg" height='120'/> | <img src="https://www.li-lab.cn/source/image/%E7%8E%8B%E5%BF%97%E6%98%8E.jpg" height='120'/> | <img src="https://www.li-lab.cn/source/image/%E7%84%A6%E6%85%A7%E5%AA%9B.jpg" height='120'/>
@@ -79,7 +78,6 @@
 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
-
 
 
 ### 联合培养/交流访学：
