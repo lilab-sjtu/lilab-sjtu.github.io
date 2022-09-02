@@ -37,14 +37,14 @@
 
 ### 教职工：
 
-<img src="https://www.shsmu.edu.cn/__local/B/78/66/940FB4A87EE51C3BE567D89140F_247CD681_89B6.jpg" height='100'/>
+<img src="https://www.shsmu.edu.cn/__local/B/78/66/940FB4A87EE51C3BE567D89140F_247CD681_89B6.jpg" height='150'/>
 
-## 李令杰 研究员 课题组长 
+### 李令杰 研究员 课题组长 
 
 上海交通大学基础医学院组织胚胎学与遗传发育学系课题组长，博士生导师。西北大学生物技术专业学士，中科院上海生命科学研究院发育生物学博士，美国斯坦福大学博士后及Research Associate。主要研究成果发表在Cell Stem Cell，Cell Rep，PNAS等国际知名期刊。
 
 
-<img src="https://www.shsmu.edu.cn/__local/F/F5/0F/B4FED8D9D4F797379EA07E70E18_0F629B94_6F935.jpg" height='100'/>
+<img src="https://www.shsmu.edu.cn/__local/F/F5/0F/B4FED8D9D4F797379EA07E70E18_0F629B94_6F935.jpg" height='150'/>
 
 ### 张丰 助理研究员
 
