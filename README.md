@@ -51,10 +51,12 @@
 
 2015年9月至2020年6月就读于复旦大学生命科学学院生物统计专业，获博士学位；2018年1月至2020年1月，在美国辛辛那提儿童医院医学中心访学, 担任Graduate Assistant; 2011年9月至2015年6月就读于山东大学数学学院，获理学学士学位。主要研究领域为单细胞测序数据分析及算法开发，研究成果发表于Cell Reports, Cell Discovery，Bioinformatics等杂志。
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
 
 ### 研究生：
+
+<img src="https://www.li-lab.cn/source/image/%E6%9D%A8%E6%99%A8.jpg" height='150'/>
 
 ### 杨晨 博士生
 
