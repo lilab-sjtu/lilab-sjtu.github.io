@@ -41,7 +41,7 @@
 
 ### 李令杰 研究员 课题组长 博士生导师
 
-西北大学生物技术专业学士，中科院上海生命科学研究院发育生物学博士，美国斯坦福大学博士后及Research Associate。主要研究成果发表在Cell Stem Cell，Cell Rep，PNAS等国际知名期刊。
+中科院上海生命科学研究院发育生物学博士，美国斯坦福大学博士后及Research Associate。主要研究成果发表在Cell Stem Cell，Cell Rep，PNAS等国际知名期刊。
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
 
@@ -49,7 +49,7 @@
 
 ### 张丰 助理研究员
 
-山东大学信息安全专业学士，复旦大学生物统计学博士，曾于美国辛辛那提儿童医院医学中心访学及担任Graduate Assistant。主要研究领域为单细胞测序数据分析及算法开发，研究成果发表于Cell Discov, Cell Rep, Brief Bioinform等国际知名期刊。
+复旦大学生物统计学博士，曾于美国辛辛那提儿童医院医学中心访学及担任Graduate Assistant。主要研究领域为单细胞测序数据分析及算法开发，研究成果发表于Cell Discov, Cell Rep, Brief Bioinform等国际知名期刊。
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
