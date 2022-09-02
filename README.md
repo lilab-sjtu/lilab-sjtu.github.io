@@ -10,11 +10,6 @@
 
 * [会议室预约](https://www.jianguoyun.com/p/DatKuGMQzt7hCBix3OsD%20){:target="_blank"}
 
-* [实验室数据清单](https://www.jianguoyun.com/p/De_7kSYQzt7hCBjnmvkD){:target="_blank"}
-
-* [试剂耗材自购单](https://www.jianguoyun.com/p/DUA3C2cQzt7hCBie1OsD){:target="_blank"}
-
-
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='50'>
 
 ### 实验室管理文档：
