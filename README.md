@@ -52,7 +52,7 @@
 
 ### 教职工：
 
-<img src="https://www.li-lab.cn/source/image/%E5%BC%A0%E4%B8%B0.jpg" height='120'/>
+<img src="https://www.li-lab.cn/source/image/%E5%BC%A0%E4%B8%B0.jpg" height='130'/>
 
 ### 张丰 助理研究员
 
