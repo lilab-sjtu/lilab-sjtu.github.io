@@ -60,15 +60,13 @@
 
 ### 杨晨 博士生
 
-<img src="https://www.li-lab.cn/source/image/%E6%9D%A8%E6%99%A8.jpg" height='120'/>
+<img src="https://www.li-lab.cn/source/image/%E7%8E%8B%E5%BF%97%E6%98%8E.jpg" height='120'/>
 
 ### 王志明 硕士生
 
-<img src="https://www.li-lab.cn/source/image/%E7%8E%8B%E5%BF%97%E6%98%8E.jpg" height='120'/>
+<img src="https://www.li-lab.cn/source/image/%E7%84%A6%E6%85%A7%E5%AA%9B.jpg" height='120'/>
 
 ### 焦慧媛 博士生
-
-<img src="https://www.li-lab.cn/source/image/%E7%84%A6%E6%85%A7%E5%AA%9B.jpg" height='120'/>
 
 ### 联合培养/交流访学：
 
