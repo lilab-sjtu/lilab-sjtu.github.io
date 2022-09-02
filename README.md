@@ -56,7 +56,7 @@
 
 
 
-<img src="https://www.li-lab.cn/source/image/%E7%AB%A5%E5%86%89.jp" height='120'/>
+<img src="https://www.li-lab.cn/source/image/%E7%AB%A5%E5%86%89.jpg" height='120'/>
 
 ### 童冉 技术员
 
