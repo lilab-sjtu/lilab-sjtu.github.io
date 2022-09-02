@@ -10,10 +10,6 @@
 
 * [会议室预约](https://www.jianguoyun.com/p/DatKuGMQzt7hCBix3OsD%20){:target="_blank"}
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='50'>
-
-### 实验室管理文档：
-
 * [仪器管理](https://www.jianguoyun.com/p/DT2Iz-kQzt7hCBiJrvAD){:target="_blank"}
 
 * [细胞房管理](https://www.jianguoyun.com/p/DUoHmTsQzt7hCBj5rfAD){:target="_blank"}
