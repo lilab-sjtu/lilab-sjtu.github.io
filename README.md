@@ -56,13 +56,6 @@
 
 <img src="https://www.shsmu.edu.cn/__local/B/ED/D0/A82A9082F6E77093427D9D16D51_4D79CE88_502F5.jpg" height='100'/>
 
-### 常玲玲 实验师 
-
-2014年9月年至2019年10月就读于复旦大学药学院药理学专业，获博士学位；2007年9月至2014年6月，就读于哈尔滨医科大学药学院，分别获中药学学士学位和药理学硕士学位。研究成果发表于Oxidative Medicine and Cellular Longevity和Antioxidants and Redox Signaling杂志上。
-
-
-<img src="https://www.shsmu.edu.cn/__local/E/AF/FF/20C6A580DF188EDEC057CBCE7DA_3A99EF97_14E56.jpg" height='200'/>
-
 ### 研究生：
 
 杨晨（博士），王志明（硕士），焦慧媛（博士）
@@ -70,8 +63,9 @@
 王一好，李林颖
 
 
+### ALUMNI
 
-
+常玲玲 (实验师, 2020-2022)
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
 
