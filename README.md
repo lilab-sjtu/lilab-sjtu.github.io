@@ -37,14 +37,20 @@
 # 人员介绍
 -------------------------------
 
+
+### 课题组长：
+
 <img src="https://www.li-lab.cn/source/image/%E6%9D%8E%E4%BB%A4%E6%9D%B0.jpg" height='150'/>
 
-### 李令杰 研究员 课题组长
+### 李令杰 研究员
 
 中科院上海生命科学研究院发育生物学博士，美国斯坦福大学博士后及Research Associate。主要研究成果发表在Cell Stem Cell，Cell Rep，PNAS等国际知名期刊。
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
 
+
+
+### 教职工：
 
 <img src="https://www.li-lab.cn/source/image/%E5%BC%A0%E4%B8%B0.jpg" height='120'/>
 
@@ -55,7 +61,6 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
 
 
-
 <img src="https://www.li-lab.cn/source/image/%E7%AB%A5%E5%86%89.jpg" height='120'/>
 
 ### 童冉 技术员
@@ -63,7 +68,6 @@
 上海交通大学硕士
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
-
 
 
 
