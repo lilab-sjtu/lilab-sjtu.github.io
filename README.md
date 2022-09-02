@@ -56,7 +56,7 @@
 
 ### 研究生：
 
-<img src="https://www.li-lab.cn/source/image/%E6%9D%A8%E6%99%A8.jpg" height='120'/>
+<p> <img src="https://www.li-lab.cn/source/image/%E6%9D%A8%E6%99%A8.jpg" height='120'/>
 
 ### 杨晨 博士生
 
@@ -68,6 +68,8 @@
 
 ### 焦慧媛 博士生
 
+</p>
+ 
 ### 联合培养/交流访学：
 
 ### 王一好
