@@ -83,13 +83,13 @@ Email: lingjie@shsmu.edu.cn |
 
    * Zhang F, Yang C, Wang Y, Jiao H, Wang Z, Shen J, <b>Li L</b>. FitDevo: accurate inference of single-cell developmental potential using sample-specific gene weight. Briefings in Bioinformatics. 2022 bbac293
    
-   * Li L, Wang Y, Torkelson JL, Shankar G, Pattison J, H Zhen, Duren Z, Fang F, Melo S, Piekos S, Li J, Liaw E,Chen L, Li R, Wernig M, Wong WH, Chang HY, Oro AE. TFAP2C- and p63-Dependent Networks Sequentially Rearrange Chromatin Landscapes to Drive Human Epidermal Lineage Commitment. Cell Stem Cell. 2019 24:271-284.
+   * <b>Li L</b>, Wang Y, Torkelson JL, Shankar G, Pattison J, H Zhen, Duren Z, Fang F, Melo S, Piekos S, Li J, Liaw E,Chen L, Li R, Wernig M, Wong WH, Chang HY, Oro AE. TFAP2C- and p63-Dependent Networks Sequentially Rearrange Chromatin Landscapes to Drive Human Epidermal Lineage Commitment. Cell Stem Cell. 2019 24:271-284.
 
-   * Li L, Chang HY. Physiological roles of long noncoding RNAs: insight from knockout mice. Trends in Cell Biology. 2014 24(10): 594-602.
+   * <b>Li L</b>, Chang HY. Physiological roles of long noncoding RNAs: insight from knockout mice. Trends in Cell Biology. 2014 24(10): 594-602.
 
-   * Li L, Liu B, Wapinski OL, Tsai MC, Qu K, Zhang J, Carlson JC, Lin M, Fang F, Gupta RA, Helms JA, Chang HY. Targeted disruption of Hotair leads to homeotic transformation and gene derepression. Cell Reports. 2013 5(1): 3-12.
+   * <b>Li L</b>, Liu B, Wapinski OL, Tsai MC, Qu K, Zhang J, Carlson JC, Lin M, Fang F, Gupta RA, Helms JA, Chang HY. Targeted disruption of Hotair leads to homeotic transformation and gene derepression. Cell Reports. 2013 5(1): 3-12.
 
-   * Li L, Sun L, Gao F, Jiang J, Yang Y, Li C, Gu J, Wei Z, Yang A, Lu R, Ma Y, Tang F, Won Kwon S, Zhao Y, Li J, Jin Y. Stk40 links the pluripotency factor Oct4 to the Erk/MAPK pathway and controls extraembryonic endoderm differentiation. PNAS. 2010 107(4): 1402-1407.
+   * <b>Li L</b>, Sun L, Gao F, Jiang J, Yang Y, Li C, Gu J, Wei Z, Yang A, Lu R, Ma Y, Tang F, Won Kwon S, Zhao Y, Li J, Jin Y. Stk40 links the pluripotency factor Oct4 to the Erk/MAPK pathway and controls extraembryonic endoderm differentiation. PNAS. 2010 107(4): 1402-1407.
 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="100" width='100'>
