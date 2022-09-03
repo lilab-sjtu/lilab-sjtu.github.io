@@ -1,18 +1,6 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
 
 -------------------------------
-# 常用链接
--------------------------------
-
-* [组会安排](https://www.jianguoyun.com/p/Ddt6xEMQzt7hCBjPuu8D){:target="_blank"}
-
-* [组会文件](https://www.jianguoyun.com/p/DeNQWocQzt7hCBi34dQD){:target="_blank"}
-
-* [会议室预约](https://www.jianguoyun.com/p/DatKuGMQzt7hCBix3OsD%20){:target="_blank"}
-
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='100'>
-
--------------------------------
 # 研究方向
 -------------------------------
 
@@ -101,8 +89,21 @@
    * Li L, Sun L, Gao F, Jiang J, Yang Y, Li C, Gu J, Wei Z, Yang A, Lu R, Ma Y, Tang F, Won Kwon S, Zhao Y, Li J, Jin Y. Stk40 links the pluripotency factor Oct4 to the Erk/MAPK pathway and controls extraembryonic endoderm differentiation. PNAS. 2010 107(4): 1402-1407.
 
 
-
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="100">
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='100'>
+
+-------------------------------
+# 常用链接
+-------------------------------
+
+* [组会安排](https://www.jianguoyun.com/p/Ddt6xEMQzt7hCBjPuu8D){:target="_blank"}
+
+* [组会文件](https://www.jianguoyun.com/p/DeNQWocQzt7hCBi34dQD){:target="_blank"}
+
+* [会议室预约](https://www.jianguoyun.com/p/DatKuGMQzt7hCBix3OsD%20){:target="_blank"}
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='100'>
 
 
 
