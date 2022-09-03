@@ -31,7 +31,7 @@
 <img src="https://www.li-lab.cn/source/image/%E6%9D%8E%E4%BB%A4%E6%9D%B0.jpg" height='150'/> |
 :-------------------------:|
 李令杰 研究员 |
-Email: lingjie@shsmu.edu.cn |
+Email: lingjie at shsmu.edu.cn |
 中科院上海生命科学研究院 发育生物学 博士<br>美国 斯坦福大学 博士后及Research Associate<br>主要研究成果发表在Cell Stem Cell，Cell Rep，PNAS等国际知名期刊 |
 
 
