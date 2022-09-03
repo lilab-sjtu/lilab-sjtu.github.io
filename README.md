@@ -32,7 +32,7 @@
 :-------------------------:|
 李令杰 研究员 |
 Email: lingjie@shsmu.edu.cn |
-中科院上海生命科学研究院 发育生物学 博士<br>美国 斯坦福大学 博士后及Research Associate<br>主要研究成果发表在Cell Stem Cell，Cell Rep，PNAS等国际知名期刊 |
+中科院上海生命科学研究院发育生物学博士<br>美国斯坦福大学博士后及Research Associate<br>主要研究成果发表在Cell Stem Cell，Cell Rep，PNAS等国际知名期刊 |
 
 
 
@@ -45,7 +45,7 @@ Email: lingjie@shsmu.edu.cn |
 <img src="https://www.li-lab.cn/source/image/%E5%BC%A0%E4%B8%B0.jpg" height='120'/> | <img src="https://www.li-lab.cn/source/image/%E7%AB%A5%E5%86%89.jpg" height='120'/>
 :-------------------------:|:-------------------------:
 张丰 助理研究员 | 童冉 技术员
-复旦大学 生物统计学 博士<br>美国 辛辛那提儿童医院医学中心 访学| 上海交通大学 基础医学 硕士
+复旦大学生物统计学博士<br>美国辛辛那提儿童医院医学中心访学| 上海交通大学基础医学硕士
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
 
