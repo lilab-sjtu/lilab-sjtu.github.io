@@ -1,5 +1,5 @@
 track V10_3h.bam.rpkm.bw
-bigDataUrl http://ffmdcc8asp.cdhttp.cn/tracks/test/hg19/V10_3h.bam.rpkm.bw
+bigDataUrl https://sourceforge.net/projects/tracks/files/test/201minus3_ad2_3_HICHIP.merge.bam.sorted.bam.rpkm.bigwig/download
 shortLabel V10_3h.bam.rpkm.bw
 longLabel V10_3h.bam.rpkm.bw
 type bigWig
