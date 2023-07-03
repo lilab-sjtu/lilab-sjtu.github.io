@@ -80,9 +80,9 @@ Email: lingjie@shsmu.edu.cn |
 # 代表成果：
 -------------------------------
 
-   *Zhang F, Jiao H, Wang Y, Yang C, Li L, Wang Z, Tong R, Zhou J, Shen J, <b>Li L</b>. InferLoop: leveraging single-cell chromatin accessibility for the signal of chromatin loop. Briefings in Bioinformatics. 2023 bbad166
+   * Zhang F, Jiao H, Wang Y, Yang C, Li L, Wang Z, Tong R, Zhou J, Shen J, <b>Li L</b>. InferLoop: leveraging single-cell chromatin accessibility for the signal of chromatin loop. Briefings in Bioinformatics. 2023 bbad166
    
-   *Zhang F, Yang C, Wang Y, Jiao H, Wang Z, Shen J, <b>Li L</b>. FitDevo: accurate inference of single-cell developmental potential using sample-specific gene weight. Briefings in Bioinformatics. 2022 bbac293
+   * Zhang F, Yang C, Wang Y, Jiao H, Wang Z, Shen J, <b>Li L</b>. FitDevo: accurate inference of single-cell developmental potential using sample-specific gene weight. Briefings in Bioinformatics. 2022 bbac293
    
    * <b>Li L</b>, Wang Y, Torkelson JL, Shankar G, Pattison J, H Zhen, Duren Z, Fang F, Melo S, Piekos S, Li J, Liaw E,Chen L, Li R, Wernig M, Wong WH, Chang HY, Oro AE. TFAP2C- and p63-Dependent Networks Sequentially Rearrange Chromatin Landscapes to Drive Human Epidermal Lineage Commitment. Cell Stem Cell. 2019 24:271-284.
 
