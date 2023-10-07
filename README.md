@@ -99,7 +99,7 @@ Email: lingjie@shsmu.edu.cn |
 # 常用链接
 -------------------------------
 
-* [组会安排](https://www.jianguoyun.com/p/Ddt6xEMQzt7hCBjPuu8D){:target="_blank"}
+* [组会安排](https://www.jianguoyun.com/p/DaDdfgQQzt7hCBif_ZcFIAA){:target="_blank"}
 
 * [组会文件](https://www.jianguoyun.com/p/DeNQWocQzt7hCBi34dQD){:target="_blank"}
 
