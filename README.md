@@ -85,7 +85,7 @@ Email: lingjie@shsmu.edu.cn |
 
 ### ALUMNI：
 
-常玲玲 实验师 (2020-2022) | 童冉 技术员 (2021-2023)
+常玲玲 实验师 (2020-2022) | 李平平 轮转生 (2021-2022) | 童冉 技术员 (2021-2023)
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
 
