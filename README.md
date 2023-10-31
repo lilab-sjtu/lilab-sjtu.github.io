@@ -10,8 +10,6 @@
 
 * [组会安排](https://www.jianguoyun.com/p/DaDdfgQQzt7hCBif_ZcFIAA){:target="_blank"}
 
-* [组会文件](https://www.jianguoyun.com/p/DeNQWocQzt7hCBi34dQD){:target="_blank"}
-
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='100'>
 
 
