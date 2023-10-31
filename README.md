@@ -90,17 +90,21 @@ Email: lingjie@shsmu.edu.cn |
 # 代表成果：
 -------------------------------
 
-   * Zhang F, Jiao H, Wang Y, Yang C, Li L, Wang Z, Tong R, Zhou J, Shen J, <b>Li L</b>. InferLoop: leveraging single-cell chromatin accessibility for the signal of chromatin loop. Briefings in Bioinformatics. 2023 bbad166
-   
-   * Zhang F, Yang C, Wang Y, Jiao H, Wang Z, Shen J, <b>Li L</b>. FitDevo: accurate inference of single-cell developmental potential using sample-specific gene weight. Briefings in Bioinformatics. 2022 bbac293
-   
-   * <b>Li L</b>, Wang Y, Torkelson JL, Shankar G, Pattison J, H Zhen, Duren Z, Fang F, Melo S, Piekos S, Li J, Liaw E,Chen L, Li R, Wernig M, Wong WH, Chang HY, Oro AE. TFAP2C- and p63-Dependent Networks Sequentially Rearrange Chromatin Landscapes to Drive Human Epidermal Lineage Commitment. Cell Stem Cell. 2019 24:271-284.
+* Feng Zhang, Huiyuan Jiao, Yihao Wang, Chen Yang, Linying Li, Zhiming Wang , Ran Tong, Junmei Zhou, Jianfeng Shen , Lingjie Li （通讯作者）; InferLoop: leveraging single-cell chromatin accessibility for the signal of chromatin loop; 	Briefings in bioinformatics, 	2023.
 
-   * <b>Li L</b>, Chang HY. Physiological roles of long noncoding RNAs: insight from knockout mice. Trends in Cell Biology. 2014 24(10): 594-602.
+* Qing Ma, Liuyi Yang, Karen Tolentino, Guiping Wang, Yang Zhao, Ulrike M Litzenburger, Quanming Shi, Lin Zhu, Chen Yang, Huiyuan Jiao, Feng Zhang, Rui Li, Miao-Chih Tsai, Jun-An Chen, Ian Lai, Hong Zeng, Lingjie Li （通讯作者）, Howard Y Chang; Inducible lncRNA transgenic mice reveal continual role of HOTAIR in promoting breast cancer metastasis;  Elife,  2022.
 
-   * <b>Li L</b>, Liu B, Wapinski OL, Tsai MC, Qu K, Zhang J, Carlson JC, Lin M, Fang F, Gupta RA, Helms JA, Chang HY. Targeted disruption of Hotair leads to homeotic transformation and gene derepression. Cell Reports. 2013 5(1): 3-12.
+* Feng Zhang, Chen Yang, Yihao Wang, Huiyuan Jiao, Zhiming Wang, Jianfeng Shen, Lingjie Li （通讯作者）; 	FitDevo: accurate inference of single-cell developmental potential using sample-specific gene weight; 	Briefings in Bioinformatics, 	2022.
 
-   * <b>Li L</b>, Sun L, Gao F, Jiang J, Yang Y, Li C, Gu J, Wei Z, Yang A, Lu R, Ma Y, Tang F, Won Kwon S, Zhao Y, Li J, Jin Y. Stk40 links the pluripotency factor Oct4 to the Erk/MAPK pathway and controls extraembryonic endoderm differentiation. PNAS. 2010 107(4): 1402-1407.
+* Lingjie Li, Yong Wang, Jessica L Torkelson, Gautam Shankar, Jillian M Pattison, Hanson H Zhen, Fengqin Fang, Zhana Duren, Jingxue Xin, Sadhana Gaddam, Sandra P Melo, Samantha N Piekos, Jiang Li, Eric J Liaw, Lang Chen, Rui Li, Marius Wernig, Wing H Wong, Howard Y Chang, Anthony E Oro; 	TFAP2C-and p63-dependent networks sequentially rearrange chromatin landscapes to drive human epidermal lineage commitment; 	Cell Stem Cell,  	2019.
+
+* Lingjie Li, Jill A Helms, Howard Y Chang; 	Comment on " Hotair Is Dispensable for Mouse Development"; 	PLoS Genet., 	2016.
+
+* Lingjie Li, Howard Y Chang; 	Physiological roles of long noncoding RNAs: insight from knockout mice; 	Trends in Cell Biology, 	2014.
+
+* Lingjie Li, Bo Liu, Orly L Wapinski, Miao-Chih Tsai, Kun Qu, Jiajing Zhang, Jeff C Carlson, Meihong Lin, Fengqin Fang, Rajnish A Gupta, Jill A Helms, Howard Y Chang; 	Targeted disruption of Hotair leads to homeotic transformation and gene derepression; 	Cell Reports, 	2013.
+
+* Lingjie Li, Lei Sun, Furong Gao, Jing Jiang, Ying Yang, Chunliang Li, Junjie Gu, Zhe Wei, Acong Yang, Rui Lu, Yu Ma, Fan Tang, Sung Won Kwon, Yingming Zhao, Jinsong Li, Ying Jin; 	Stk40 links the pluripotency factor Oct4 to the Erk/MAPK pathway and controls extraembryonic endoderm differentiation; 	Proceedings of the National Academy of Sciences, 	2010.
 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="100" width='100'>
