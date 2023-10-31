@@ -103,7 +103,9 @@ Email: lingjie@shsmu.edu.cn |
 
 * [组会文件](https://www.jianguoyun.com/p/DeNQWocQzt7hCBi34dQD){:target="_blank"}
 
-* [会议室预约](https://www.jianguoyun.com/p/DatKuGMQzt7hCBix3OsD%20){:target="_blank"}
+* [组遗发系会议室预约](https://www.jianguoyun.com/p/DatKuGMQzt7hCBix3OsD%20){:target="_blank"}
+
+* [组遗发系公共仪器预约](https://www.jianguoyun.com/p/DevqjeQQzt7hCBivjqEFIAA){:target="_blank"}
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='100'>
 
