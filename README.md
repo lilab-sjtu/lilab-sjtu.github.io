@@ -56,7 +56,6 @@ Email: lingjie@shsmu.edu.cn |
 
 ### 教职工：
 
-<img src="https://www.li-lab.cn/source/image/%E5%BC%A0%E4%B8%B0.jpg" height='120'/> | <img src="https://www.li-lab.cn/source/image/%E7%AB%A5%E5%86%89.jpg" height='120'/>
 :-------------------------:|:-------------------------:
 张丰 助理研究员 | 蔡晓东 科研助理
 复旦大学生物统计学博士<br>美国辛辛那提儿童医院医学中心访学| 中山大学基础医学硕士
@@ -66,10 +65,8 @@ Email: lingjie@shsmu.edu.cn |
 
 ### 研究生：
 
-<img src="https://www.li-lab.cn/source/image/%E6%9D%A8%E6%99%A8.jpg" height='120'/> | <img src="https://www.li-lab.cn/source/image/%E7%8E%8B%E5%BF%97%E6%98%8E.jpg" height='120'/> | <img src="https://www.li-lab.cn/source/image/%E7%84%A6%E6%85%A7%E5%AA%9B.jpg" height='120'/>
 :-------------------------:|:-------------------------:|:-------------------------:
 杨晨 博士 | 王志明 硕士 | 焦慧媛 博士
-
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
@@ -84,7 +81,7 @@ Email: lingjie@shsmu.edu.cn |
 
 ### ALUMNI：
 
-常玲玲 (实验师, 2020-2022) | 
+常玲玲 (实验师, 2020-2022) | 童冉 (技术员，2021-2023)
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
 
