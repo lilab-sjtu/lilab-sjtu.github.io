@@ -55,7 +55,7 @@ Email: lingjie@shsmu.edu.cn |
 ### 教职工：
 
 
-张丰 助理研究员 | 蔡晓东 科研助理
+张丰 助理研究员 (2020-) | 蔡晓东 科研助理 (2023-)
 复旦大学生物统计学博士<br>美国辛辛那提儿童医院医学中心访学| 中山大学基础医学硕士
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
@@ -76,7 +76,7 @@ Email: lingjie@shsmu.edu.cn |
 
 ### 联合培养/交流访学：
 
-王一好 (上海第九人民医院) | 李林颖 (上海市儿童医院) | 王烨欣 (上海市第九人民医院)
+王一好 上海第九人民医院 (2021-) | 李林颖 上海市儿童医院 (2021-) | 王烨欣 上海市第九人民医院 (2022-)
 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
@@ -84,7 +84,7 @@ Email: lingjie@shsmu.edu.cn |
 
 ### ALUMNI：
 
-常玲玲 (实验师, 2020-2022) | 童冉 (技术员，2021-2023)
+常玲玲 实验师 (2020-2022) | 童冉 技术员 (2021-2023)
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
 
