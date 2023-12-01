@@ -67,7 +67,9 @@ Email: lingjie@shsmu.edu.cn |
 
 ### 博士后：
 
-张梦琦 博士 (2023)
+张梦琦 博士 (2023) |
+中科院北京基因组所 |
+
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
