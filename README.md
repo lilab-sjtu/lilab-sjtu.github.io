@@ -65,23 +65,29 @@ Email: lingjie@shsmu.edu.cn |
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
 
+### 博士后：
+
+张梦琦 博士 (2023)
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
 ### 研究生：
 
-杨晨 博士 (2019) | 王志明 硕士 (2020) | 焦慧媛 博士 (2020)
-马子越 博士 (2023) | 
+杨晨 博士生 (2019) | 王志明 硕士生 (2020) | 焦慧媛 博士生 (2020)
+马子越 博士生 (2023) | 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
 ### 轮转生
 
-贺潇宇 硕士 (2023) |
+贺潇宇 硕士生 (2023) |
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
 ### 联合培养/交流访学：
 
 王一好 上海第九人民医院 (2021) | 李林颖 上海市儿童医院 (2021) | 王烨欣 上海市第九人民医院 (2022)
+刘涵 湖南师范大学 (2023) | 
 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
