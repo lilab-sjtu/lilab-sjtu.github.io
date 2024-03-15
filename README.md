@@ -82,7 +82,7 @@ Email: lingjie@shsmu.edu.cn |
 
 ### 轮转生
 
-...
+... |
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
