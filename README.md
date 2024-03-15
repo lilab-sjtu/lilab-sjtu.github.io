@@ -76,13 +76,13 @@ Email: lingjie@shsmu.edu.cn |
 ### 研究生：
 
 杨晨 博士生 (2019) | 王志明 硕士生 (2020) | 焦慧媛 博士生 (2020)
-马子越 博士生 (2023) | 
+马子越 博士生 (2023) | 贺潇宇 硕士生 (2023) |
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
 ### 轮转生
 
-贺潇宇 硕士生 (2023) |
+...
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
