@@ -4,9 +4,9 @@
 # 常用链接
 -------------------------------
 
-* [组遗发系公共仪器预约](https://www.jianguoyun.com/p/DevqjeQQzt7hCBivjqEFIAA){:target="_blank"}
+* [公共仪器预约](https://www.jianguoyun.com/p/DevqjeQQzt7hCBivjqEFIAA){:target="_blank"}
 
-* [组遗发系会议室预约](https://www.jianguoyun.com/p/DUGFkTcQzt7hCBiyj6EFIAA){:target="_blank"}
+* [会议室预约](https://www.jianguoyun.com/p/DUGFkTcQzt7hCBiyj6EFIAA){:target="_blank"}
 
 * [组会安排](https://www.jianguoyun.com/p/DaDdfgQQzt7hCBif_ZcFIAA){:target="_blank"}
 
