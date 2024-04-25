@@ -89,8 +89,6 @@ Email: lingjie@shsmu.edu.cn |
 ### 联合培养/交流访学：
 
 王一好 上海第九人民医院 (2021) | 李林颖 上海市儿童医院 (2021) | 王烨欣 上海市第九人民医院 (2022)
-刘涵 湖南师范大学 (2023) | 
-
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
@@ -98,6 +96,7 @@ Email: lingjie@shsmu.edu.cn |
 ### ALUMNI：
 
 常玲玲 实验师 (2020-2022) | 李平平 轮转生 (2021-2022) | 童冉 技术员 (2021-2023)
+刘涵 联合/交流 (2023-2024) |
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
 
