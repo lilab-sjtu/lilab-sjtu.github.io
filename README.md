@@ -106,6 +106,8 @@ Email: lingjie@shsmu.edu.cn |
 # 代表成果：
 -------------------------------
 
+* Linjing Lan, Xin Zhang, Shanxiu Yang, Lingjie Li （通讯作者）, Xiuguang Mao; Chromosome-level genome assembly of the Stoliczka’s Asian trident bat (Aselliscus stoliczkanus); Scientific Data, 2023.
+
 * Feng Zhang, Huiyuan Jiao, Yihao Wang, Chen Yang, Linying Li, Zhiming Wang , Ran Tong, Junmei Zhou, Jianfeng Shen , Lingjie Li （通讯作者）; InferLoop: leveraging single-cell chromatin accessibility for the signal of chromatin loop; 	Briefings in bioinformatics, 	2023.
 
 * Qing Ma, Liuyi Yang, Karen Tolentino, Guiping Wang, Yang Zhao, Ulrike M Litzenburger, Quanming Shi, Lin Zhu, Chen Yang, Huiyuan Jiao, Feng Zhang, Rui Li, Miao-Chih Tsai, Jun-An Chen, Ian Lai, Hong Zeng, Lingjie Li （通讯作者）, Howard Y Chang; Inducible lncRNA transgenic mice reveal continual role of HOTAIR in promoting breast cancer metastasis;  Elife,  2022.
