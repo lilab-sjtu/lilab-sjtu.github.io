@@ -10,8 +10,6 @@
 
 * [组会安排](https://www.jianguoyun.com/p/DaDdfgQQzt7hCBif_ZcFIAA){:target="_blank"}
 
-* [FTP及UCSC Track](https://www.jianguoyun.com/p/DR0Zr1MQzt7hCBiJ4KEFIAA){:target="_blank"}
-
 * [仪器家具维修申报](https://www.shsmu.edu.cn/zicc/info/1040/4743.htm){:target="_blank"}
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='100'>
