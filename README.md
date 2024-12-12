@@ -57,8 +57,8 @@ Email: lingjie@shsmu.edu.cn |
 ### 教职工：
 
 
-张丰 副研究员 (2020-) | 蔡晓东 科研助理 (2023)
-复旦大学生物统计学博士<br>美国辛辛那提儿童医院医学中心访学| 中山大学基础医学硕士
+蔡晓东 科研助理 (2023) | ... |
+中山大学基础医学硕士 | ... |
 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10" width='10'>
@@ -94,7 +94,7 @@ Email: lingjie@shsmu.edu.cn |
 ### ALUMNI：
 
 常玲玲 实验师 (2020-2022) | 李平平 轮转生 (2021-2022) | 童冉 技术员 (2021-2023)
-刘涵 联合/交流 (2023-2024) |
+刘涵 联合/交流 (2023-2024) | 张丰 副研究员 (2020-2025) |
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50" width='100'>
 
