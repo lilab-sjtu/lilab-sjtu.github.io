@@ -74,7 +74,7 @@ Email: lingjie@shsmu.edu.cn |
 ### 研究生：
 
 杨晨 博士生 (2019) | 王志明 硕士生 (2020) | 焦慧媛 博士生 (2020)
-马子越 博士生 (2023) | 贺潇宇 硕士生 (2023) |
+马子越 博士生 (2023) | 贺潇宇 硕士生 (2023) | 张秋慧 博士生 (2024)
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
@@ -87,6 +87,7 @@ Email: lingjie@shsmu.edu.cn |
 ### 联合培养/交流访学：
 
 王一好 上海第九人民医院 (2021) | 李林颖 上海市儿童医院 (2021) | 王烨欣 上海市第九人民医院 (2022)
+吴恒 上海市皮肤病医院 (2024) |
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20" width='20'>
 
